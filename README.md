@@ -1,2 +1,2 @@
 # Statistics_foundation
-Statistical basis for ML
+It's an brief summary of statistical knowledge.
